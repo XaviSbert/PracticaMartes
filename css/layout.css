@@ -1,4 +1,23 @@
 /* CSS LAYOUT */
 /* **************************************************************** */
 
+/* HEADER */
 
+header{
+    height: 80px;
+    background-color: #13541A;
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+}
+
+/* CIRUCLO */
+
+.circulo{
+    background-color: #D44545;
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+
+}
